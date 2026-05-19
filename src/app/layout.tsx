@@ -25,6 +25,9 @@ const devanagari = Noto_Sans_Devanagari({
 export const metadata: Metadata = {
   title: "TCBT JAIVIK KISHAN",
   description: "प्राकृतिक खेती के लिए TCBT तकनीक",
+  verification: {
+    google: "NH5B_d8bbzJfYkTVwu1fE1OexZYn3BXmhtIRbejM6B0",
+  },
 };
 
 export default function RootLayout({
