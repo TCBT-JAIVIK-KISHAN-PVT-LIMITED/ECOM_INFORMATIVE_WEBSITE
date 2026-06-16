@@ -1,0 +1,124 @@
+Attached Element Context from Integrated Browser
+
+Element: div.jsx-ff4ff85c2c3853ad.max-w-7xl.mx-auto.px-4.py-3.flex.justify-between.items-center.relative.z-10
+
+URL: http://localhost:3000/
+
+HTML Path: div.hidden.lg:block.bg-linear-to-r.from-green-700.via-emerald-600.to-green-700.text-white.text-sm.relative.overflow-hidden > div.jsx-ff4ff85c2c3853ad.max-w-7xl.mx-auto.px-4.py-3.flex.justify-between.items-center.relative.z-10
+
+Outer HTML:
+```html
+<div class="jsx-ff4ff85c2c3853ad max-w-7xl mx-auto px-4 py-3 flex justify-between items-center relative z-10"><div class="flex items-center gap-6" style="opacity: 1; transform: none;"><a href="tel:+919039007835" class="flex items-center gap-2 hover:text-yellow-300 transition-colors group" style="transform: none;"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium w-4 h-4 group-hover:rotate-12 transition-transform mui-1umw9bq-MuiSvgIcon-root" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="PhoneIcon"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02z"></path></svg><span class="jsx-ff4ff85c2c3853ad">+91 90390 07835</span></a><a href="mailto:info@tcbtjaivikkisan.com" class="flex items-center gap-2 hover:text-yellow-300 transition-colors group" style="transform: none;"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium w-4 h-4 group-hover:rotate-12 transition-transform mui-1umw9bq-MuiSvgIcon-root" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="EmailIcon"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m0 4-8 5-8-5V6l8 5 8-5z"></path></svg><span class="jsx-ff4ff85c2c3853ad">info@tcbtjaivikkisan.com</span></a></div><div class="flex items-center gap-4" style="opacity: 1; transform: none;"><a href="https://wa.me/919039007835" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 hover:text-yellow-300 transition-colors" style="transform: none;"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium w-4 h-4 mui-1umw9bq-MuiSvgIcon-root" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="WhatsAppIcon"><path d="M16.75 13.96c.25.13.41.2.46.3.06.11.04.61-.21 1.18-.2.56-1.24 1.1-1.7 1.12-.46.02-.47.36-2.96-.73-2.49-1.09-3.99-3.75-4.11-3.92-.12-.17-.96-1.38-.92-2.61.05-1.22.69-1.8.95-2.04.24-.26.51-.29.68-.26h.47c.15 0 .36-.06.55.45l.69 1.87c.06.13.1.28.01.44l-.27.41-.39.42c-.12.12-.26.25-.12.5.12.26.62 1.09 1.32 1.78.91.88 1.71 1.17 1.95 1.3.24.14.39.12.54-.04l.81-.94c.19-.25.35-.19.58-.11l1.67.88M12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10c-1.97 0-3.8-.57-5.35-1.55L2 22l1.55-4.65A9.969 9.969 0 0 1 2 12 10 10 0 0 1 12 2m0 2a8 8 0 0 0-8 8c0 1.72.54 3.31 1.46 4.61L4.5 19.5l2.89-.96A7.95 7.95 0 0 0 12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8z"></path></svg><span class="jsx-ff4ff85c2c3853ad">WhatsApp</span></a><a href="https://www.youtube.com/@TarachandBelji" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 hover:text-yellow-300 transition-colors" style="transform: none;"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium w-4 h-4 mui-1umw9bq-MuiSvgIcon-root" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="YouTubeIcon"><path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"></path></svg><span class="jsx-ff4ff85c2c3853ad">YouTube</span></a><div style="transform: none;"><a class="flex items-center gap-2 bg-yellow-400 text-green-900 px-4 py-1.5 rounded-full hover:bg-yellow-300 transition-all font-semibold shadow-lg" href="https://products.tcbtjaivikkisan.com"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium w-4 h-4 mui-1umw9bq-MuiSvgIcon-root" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="ShoppingCartIcon"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2M1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2"></path></svg><span class="jsx-ff4ff85c2c3853ad">Shop Now</span></a></div></div></div>
+```
+
+Dimensions:
+- top: 0px
+- left: 0px
+- width: 1232px
+- height: 60px
+
+CSS:
+```css
+*, :after, :before, ::backdrop { box-sizing: border-box;
+    border: 0 solid;
+    margin: 0;
+    padding: 0; }
+* { border-color: var(--border);
+    outline-color: var(--ring); }
+* { outline-color: color-mix(in oklab, var(--ring) 50%, transparent); }
+* { border-color: var(--color-stone-200); }
+.relative { position: relative; }
+.z-10 { z-index: 10; }
+.mx-auto { margin-inline: auto; }
+.flex { display: flex; }
+.max-w-7xl { max-width: var(--container-7xl); }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.px-4 { padding-inline: calc(var(--spacing) * 4); }
+.py-3 { padding-block: calc(var(--spacing) * 3); }
+* { scrollbar-width: thin;
+  scrollbar-color: #10b981 #f1f5f9; }
+*, *::before, *::after { box-sizing:inherit; }
+
+/* Pseudo-elements */
+::selection { background-color: var(--color-emerald-200);
+    color: var(--color-emerald-900); }
+::selection { color: #fff;
+  background-color: #10b981; }
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar { width: 12px;
+  height: 12px; }
+::-webkit-scrollbar-thumb { background: linear-gradient(#059669, #10b981);
+  border-radius: 5px; }
+::-webkit-scrollbar-thumb { background: linear-gradient(#10b981, #059669);
+  border: 2px solid #f1f5f9;
+  border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: linear-gradient(#059669, #047857); }
+::-webkit-scrollbar-track { background: #f0fdf4; }
+::-webkit-scrollbar-track { background: #f1f5f9;
+  border-radius: 10px; }
+
+/* Inherited */
+.text-sm { font-size: var(--text-sm); line-height: var(--tw-leading, var(--text-sm--line-height)) }
+.text-white { color: var(--color-white) }
+body { color: var(--foreground) }
+body { color: var(--color-stone-800); font-feature-settings: "rlig" 1, "calt" 1 }
+body { color:rgba(0, 0, 0, 0.87); font-family:"Roboto","Helvetica","Arial",sans-serif; font-weight:400; font-size:1rem; line-height:1.5; letter-spacing:0.00938em }
+html, :host { tab-size: 4; line-height: 1.5; font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"); font-feature-settings: var(--default-font-feature-settings, normal) }
+html { font-family: var(--font-devanagari), var(--font-inter), system-ui, sans-serif }
+
+/* Resolved values */
+margin: 0px;
+padding: 12px 16px;
+border-radius: 0px;
+border: 0px solid lab(91.055 0.663072 0.865579);
+align-items: center;
+background-attachment: scroll;
+background-clip: border-box;
+background-color: rgba(0, 0, 0, 0);
+background-image: none;
+background-origin: padding-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-repeat: repeat;
+background-size: auto;
+box-sizing: border-box;
+color: rgb(255, 255, 255);
+display: flex;
+font-family: Roboto, Helvetica, Arial, sans-serif;
+font-feature-settings: "calt", "rlig";
+font-size: 14px;
+font-weight: 400;
+height: 60px;
+justify-content: space-between;
+letter-spacing: 0.15008px;
+line-height: 20px;
+margin-inline-end: 0px;
+margin-inline-start: 0px;
+max-width: 1280px;
+outline-color: oklab(0.703997 -0.00914919 -0.038923 / 0.5);
+position: relative;
+scrollbar-color: rgb(16, 185, 129) rgb(241, 245, 249);
+scrollbar-width: thin;
+tab-size: 4;
+unicode-bidi: isolate /*UA*/;
+width: 1232px;
+z-index: 10;
+
+/* CSS variables */
+--border: lab(91.7353% -.998765 -4.76968);
+--color-white: #fff;
+--color-emerald-200: lab(90.2247% -31.039 9.47084);
+--color-emerald-900: lab(28.8637% -26.9249 5.45986);
+--spacing: .25rem;
+--text-sm: .875rem;
+--color-stone-800: lab(15.0353% 1.96067 1.53427);
+--ring: lab(65.5349% -2.25151 -14.5072);
+--default-font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+--font-inter: "Inter", "Inter Fallback";
+--font-devanagari: "Noto Sans Devanagari", "Noto Sans Devanagari Fallback";
+--color-stone-200: lab(91.055% .663072 .865579);
+--text-sm--line-height: calc(1.25 / .875);
+--foreground: lab(1.76974% 1.32743 -9.28855);
+--container-7xl: 80rem;
+```
