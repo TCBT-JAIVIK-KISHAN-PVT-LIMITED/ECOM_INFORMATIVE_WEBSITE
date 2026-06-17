@@ -4,6 +4,7 @@ import { Badge } from '@/components/ui/badge'
 import Testimonials from '@/components/home/testimonials/Testimonials'
 import Image from 'next/image'
 import PanchMahabhut from '@/components/home/PanchMahabhut'
+import { HelpWidget } from "@/components/common/HelpWidget";
 
 export default async function Home() {
   await new Promise(resolve => setTimeout(resolve, 3000));
@@ -202,6 +203,7 @@ export default async function Home() {
       </section>
       <Statistics />
       <Testimonials />
+      <HelpWidget />
     </main>
   )
 }
