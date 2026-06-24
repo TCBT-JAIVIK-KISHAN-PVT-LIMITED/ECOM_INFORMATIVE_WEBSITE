@@ -89,7 +89,7 @@ const Footer = () => {
                 <div className="flex items-center gap-3 mb-6">
                   <div className="w-12 h-12 bg-white/20 backdrop-blur-sm rounded-2xl flex items-center justify-center">
                     <Image
-                      src="/logo.png"
+                      src="/logo.webp"
                       alt="TCBT Logo"
                       fill
                       className="object-contain"

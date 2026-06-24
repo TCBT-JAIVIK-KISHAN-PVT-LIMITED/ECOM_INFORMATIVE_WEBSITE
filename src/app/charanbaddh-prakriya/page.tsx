@@ -2,55 +2,55 @@
 const processSteps = [
   {
     id: 1,
-    image: "/Charanbaddh-prakriya/img_1.png",
+    image: "/Charanbaddh-prakriya/img_1.webp",
     title: "देशी गाय का महत्व",
     description: "देशी भारतीय गाय होना चाहिए और गोबर की ऊर्जा पॉजिटिव और पंचमहाभूत पूर्ण हो"
   },
   {
     id: 2,
-    image: "/Charanbaddh-prakriya/img_2.png",
+    image: "/Charanbaddh-prakriya/img_2.webp",
     title: "अग्निहोत्र भस्म",
     description: "अग्निहोत्र भस्म में पंचमहाभूतों की पाँचों ऊर्जाएं होनी चाहिए"
   },
   {
     id: 3,
-    image: "/Charanbaddh-prakriya/img_3.png",
+    image: "/Charanbaddh-prakriya/img_3.webp",
     title: "कृषि भूमि की ऊर्जा",
     description: "कृषि भूमि की ऊर्जा पॉजिटिव हो और पंचमहाभूत पूर्ण हो"
   },
   {
     id: 4,
-    image: "/Charanbaddh-prakriya/img_4.png",
+    image: "/Charanbaddh-prakriya/img_4.webp",
     title: "बीजों की ऊर्जा",
     description: "बीजों की ऊर्जा पॉजिटिव हो और पंचमहाभूत पूर्ण हो"
   },
   {
     id: 5,
-    image: "/Charanbaddh-prakriya/img_5.png",
+    image: "/Charanbaddh-prakriya/img_5.webp",
     title: "जल की शुद्धता",
     description: "जल की ऊर्जा पॉजिटिव हो और पंचमहाभूत पूर्ण हो"
   },
   {
     id: 6,
-    image: "/Charanbaddh-prakriya/img_6.png",
+    image: "/Charanbaddh-prakriya/img_6.webp",
     title: "भूमि का PH स्तर",
     description: "भूमि के PH 7.2, और कार्बन 1% से ऊपर हो"
   },
   {
     id: 7,
-    image: "/Charanbaddh-prakriya/img_7.png",
+    image: "/Charanbaddh-prakriya/img_7.webp",
     title: "बीज बोवाई",
     description: "बीजों को निश्चित नक्षत्र पर बोवाई करें (TCBT कृषि पंचाग के अनुसार) बीज शोधन और बीज संस्कार भी अपनाएँ"
   },
   {
     id: 8,
-    image: "/Charanbaddh-prakriya/img_8.png",
+    image: "/Charanbaddh-prakriya/img_8.webp",
     title: "अमावस्या प्रक्रिया",
     description: "हर अमावस्या के आसपास ऊर्जा जल एवं अणु जल फसलों में सिंचाई के साथ डालें और छाछ द्रव्य रसायन का स्प्रे करें"
   },
   {
     id: 9,
-    image: "/Charanbaddh-prakriya/img_9.png",
+    image: "/Charanbaddh-prakriya/img_9.webp",
     title: "पूर्णिमा प्रक्रिया",
     description: "हर पूर्णिमा के आसपास हाई सीएन रेशियो एवं जीवाणु जल फसलों में सिंचाई के साथ डालें, पंचगव्य का स्प्रे करें"
   }

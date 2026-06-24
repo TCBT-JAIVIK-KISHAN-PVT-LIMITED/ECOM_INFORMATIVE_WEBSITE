@@ -42,7 +42,7 @@ export const solutionsData: SolutionCategory[] = [
           "सुबह शाम गंध चिकित्सा करके फसल को भूमि तत्व दे सकते हैं।",
           "नीले-पीले-हरे काँच के बॉटल में गौमूत्र भस्कर हप्ता-15- महिना भर सूर्य प्रकाश दिखाकर 10 से 15 mi प्रति पानी में मिलाकर फसलों पर स्प्रे करें।"
         ],
-        image: "/solutions/bhumi-tatva.png",
+        image: "/solutions/bhumi-tatva.webp",
         imageCaption: "भूमि तत्व संतुलन",
         colorScheme: "primary"
       },
@@ -66,7 +66,7 @@ export const solutionsData: SolutionCategory[] = [
           "3ml सूर्य तप्त पीले बॉटल का गौमूत्र प्रति लीटर पानी में मिलाकर फसलों पर स्प्रे करें।",
           "गगन महाभूत से प्रार्थना करें कि वह हमारे फसलों में बीज तत्व निर्माण में सहायता करें।"
         ],
-        image: "/solutions/gagan-tatva.png",
+        image: "/solutions/gagan-tatva.webp",
         imageCaption: "गगन तत्व संतुलन",
         colorScheme: "accent"
       },
@@ -85,7 +85,7 @@ export const solutionsData: SolutionCategory[] = [
           "ऊर्जा जल में अग्निहोत्र भस्म की मात्रा बढ़ाकर (100 लीटर पानी में 500 ग्राम भस्म का घोल) जड़ों में दें।",
           "200 लीटर जीवाणु जल में 20 लीटर जैव रसायन मिलाकर फसलों की जड़ों में दें।"
         ],
-        image: "/solutions/vayu-tatva.png",
+        image: "/solutions/vayu-tatva.webp",
         imageCaption: "वायु तत्व संतुलन",
         colorScheme: "gold"
       },
@@ -104,7 +104,7 @@ export const solutionsData: SolutionCategory[] = [
           "लाल, पीली कांच के बॉटल में सूर्य तप्त गौमूत्र 6 लीटर बनाकर सिंचाई जल के साथ जड़ों में डाले और 10 ml प्रति लीटर पानी की दर से फसलों पर स्प्रे करें।",
           "20% ऊर्जा जल और RAH FPO के खनिज भस्म 3 ग्राम प्रति लीटर पानी में मिलाकर फसलों पर स्प्रे करें।"
         ],
-        image: "/solutions/agnin-tatva.png",
+        image: "/solutions/agnin-tatva.webp",
         imageCaption: "अग्निन तत्व संतुलन",
         colorScheme: "primary"
       },
@@ -129,7 +129,7 @@ export const solutionsData: SolutionCategory[] = [
           "तत्कालिक उपाय:",
           "हर सिंचाई के पूर्व जमीन पर माथा टिकाकर माता गंगा से प्रार्थना करे, (हें गंगा माता, यह जल मेरे फसलों के पोषण के लिए है, कृपया आप अपनी शक्ति प्रदान करें, हे ईश्वर इस कार्य में मेरी सहायता करें।)"
         ],
-        image: "/solutions/jal-tatva.png",
+        image: "/solutions/jal-tatva.webp",
         imageCaption: "जल तत्व संतुलन",
         colorScheme: "accent"
       }

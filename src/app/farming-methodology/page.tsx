@@ -48,7 +48,7 @@ export default function PanchMahabhutPage() {
                 <div className="max-w-5xl mx-auto text-center">
                     <div className="inline-block bg-green-50 rounded-2xl shadow-sm border border-green-100">
                         <Image
-                            src="/farming-methodology/सुक्ष्म-दुनिया.png"
+                            src="/farming-methodology/सुक्ष्म-दुनिया.webp"
                             alt="सूक्ष्म दुनिया"
                             width={900}
                             height={600}
@@ -132,7 +132,7 @@ export default function PanchMahabhutPage() {
                     <div className="space-y-10">
                         <div className="bg-white p-6 rounded-2xl shadow-md border border-green-100">
                             <Image
-                                src="/farming-methodology/panchmahabhut-1.png"
+                                src="/farming-methodology/panchmahabhut-1.webp"
                                 alt="सूक्ष्म दुनिया"
                                 width={1100}
                                 height={700}
@@ -143,7 +143,7 @@ export default function PanchMahabhutPage() {
 
                         <div className="bg-white p-6 rounded-2xl shadow-md border border-green-100">
                             <Image
-                                src="/farming-methodology/panchmahabhut-2.png"
+                                src="/farming-methodology/panchmahabhut-2.webp"
                                 alt="सूक्ष्म दुनिया"
                                 width={1100}
                                 height={700}
@@ -200,7 +200,7 @@ export default function PanchMahabhutPage() {
                             <div className="flex justify-center md:justify-end">
                                 <div className="bg-green-50 p-4 rounded-xl border border-green-100 shadow-sm">
                                     <Image
-                                        src="/farming-methodology/प्रकृति-पंच-भूतानि️.png"
+                                        src="/farming-methodology/प्रकृति-पंच-भूतानि️.webp"
                                         alt="सूक्ष्म दुनिया"
                                         width={320}
                                         height={320}
@@ -238,7 +238,7 @@ export default function PanchMahabhutPage() {
 
                     <div className="bg-white rounded-2xl shadow-md border border-green-100">
                         <Image
-                            src="/farming-methodology/end.png"
+                            src="/farming-methodology/end.webp"
                             alt="सूक्ष्म दुनिया"
                             width={1100}
                             height={700}

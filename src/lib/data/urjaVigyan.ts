@@ -204,7 +204,7 @@ export const urjaVigyanContent: UrjaVigyanContent = {
     title: "नौ ऊर्जाओं का दृश्य निरूपण",
     subtitle: "प्रकृति की रचना में नौ मूलभूत ऊर्जाएं कार्यरत हैं",
     image: {
-      src: "/Urja-Vigyan/img_1.png",
+      src: "/Urja-Vigyan/img_1.webp",
       alt: "नौ ऊर्जाओं का प्रकृति निर्माण क्रम",
     },
     badge: "9 ऊर्जाएं",
@@ -231,11 +231,11 @@ export const urjaVigyanContent: UrjaVigyanContent = {
     ],
     images: [
       {
-        src: "/Urja-Vigyan/img_2.png",
+        src: "/Urja-Vigyan/img_2.webp",
         alt: "ऊर्जा की गति चित्र 1",
       },
       {
-        src: "/Urja-Vigyan/img_3.png",
+        src: "/Urja-Vigyan/img_3.webp",
         alt: "ऊर्जा की गति चित्र 2",
       },
     ],
@@ -248,7 +248,7 @@ export const urjaVigyanContent: UrjaVigyanContent = {
       "सकारात्मक ऊर्जा प्रकृति का सृजन करती है, नकारात्मक ऊर्जा प्रकृति का विघटन करती है।",
     ],
     footerImage: {
-      src: "/Urja-Vigyan/img_4.png",
+      src: "/Urja-Vigyan/img_4.webp",
       alt: "ऊर्जा प्रवाह",
     },
   },
@@ -256,7 +256,7 @@ export const urjaVigyanContent: UrjaVigyanContent = {
   manureCycle: {
     title: "सूखे गोबर का ढेर (घूरा) का ऊर्जा चक्र",
     mainDiagram: {
-      src: "/Urja-Vigyan/img_5.jpg",
+      src: "/Urja-Vigyan/img_5.webp",
       alt: "घूरे का ऊर्जा चक्र - मुख्य चित्र",
     },
 
@@ -309,11 +309,11 @@ export const urjaVigyanContent: UrjaVigyanContent = {
         "निष्कर्ष: जैसी ऊर्जा होगी वैसे अणु और जीवाणु उत्पन्न होते हैं। पौधे की पत्तियाँ चमकदार तो होती हैं पर ऐसी फसल से उपज कम आती है।",
       images: [
         {
-          src: "/Urja-Vigyan/img_6.png",
+          src: "/Urja-Vigyan/img_6.webp",
           alt: "TCBT पुस्तक - ऊर्जा विज्ञान",
         },
         {
-          src: "/Urja-Vigyan/img_7.png",
+          src: "/Urja-Vigyan/img_7.webp",
           alt: "ऊर्जा चक्र प्रक्रिया",
         },
       ],

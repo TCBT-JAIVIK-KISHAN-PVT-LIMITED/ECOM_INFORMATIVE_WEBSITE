@@ -4,14 +4,14 @@ export const galleryFieldImpactData = {
     subtitle: "प्राकृतिक खेती के माध्यम से हमारे किसानों की सफलता और जमीनी बदलाव की कहानियां"
   },
   images: [
-    { src: "/galleryFieldImpact/Img1.png", alt: "फसल परिवर्तन 1" },
-    { src: "/galleryFieldImpact/Img2.png", alt: "फसल परिवर्तन 2" },
-    { src: "/galleryFieldImpact/Img3.png", alt: "फसल परिवर्तन 3" },
-    { src: "/galleryFieldImpact/Img4.png", alt: "फसल परिवर्तन 4" },
-    { src: "/galleryFieldImpact/Img5.png", alt: "मिट्टी गुणवत्ता 1" },
-    { src: "/galleryFieldImpact/Img6.png", alt: "मिट्टी गुणवत्ता 2" },
-    { src: "/galleryFieldImpact/Img7.png", alt: "मिट्टी गुणवत्ता 3" },
-    { src: "/galleryFieldImpact/Img8.png", alt: "मिट्टी गुणवत्ता 4" }
+    { src: "/galleryFieldImpact/Img1.webp", alt: "फसल परिवर्तन 1" },
+    { src: "/galleryFieldImpact/Img2.webp", alt: "फसल परिवर्तन 2" },
+    { src: "/galleryFieldImpact/Img3.webp", alt: "फसल परिवर्तन 3" },
+    { src: "/galleryFieldImpact/Img4.webp", alt: "फसल परिवर्तन 4" },
+    { src: "/galleryFieldImpact/Img5.webp", alt: "मिट्टी गुणवत्ता 1" },
+    { src: "/galleryFieldImpact/Img6.webp", alt: "मिट्टी गुणवत्ता 2" },
+    { src: "/galleryFieldImpact/Img7.webp", alt: "मिट्टी गुणवत्ता 3" },
+    { src: "/galleryFieldImpact/Img8.webp", alt: "मिट्टी गुणवत्ता 4" }
   ],
   videos: [
     { id: "video1", title: "प्राकृतिक खेती का प्रभाव 1", youtubeId: "pz9jo84Vwn0" },

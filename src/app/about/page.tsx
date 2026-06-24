@@ -27,26 +27,26 @@ export default function AboutPage() {
                 "इन्होंने अपने निरंतर अध्ययन, अनुसंधान और प्रयासों से प्राकृतिक सिद्धांतों के आधार पर स्वावलंबी और जैविक मूल्य आधारित खेती की पद्धति विकसित की है, जिसका लाभ आज लाखों किसान ले रहे हैं।",
             ],
             image:
-                "/Tarachand-Belji/h1.jpeg",
+                "/Tarachand-Belji/h1.webp",
         },
 
         upperManagement: [
             {
                 name: "Tarachand Belji",
                 role: "Founder, Director",
-                image: "/Tarachand-Belji/h2.jpeg",
+                image: "/Tarachand-Belji/h2.webp",
                 linkedin: "https://linkedin.com/in/example",
             },
             {
                 name: "Metali Belji",
                 role: "Founder, Director",
-                image: "/Our-team/Metali-mam.jpeg",
+                image: "/Our-team/Metali-mam.webp",
                 linkedin: "https://linkedin.com/in/example2",
             },
             {
                 name: "Navjyot Nashine",
                 role: "Chief Executive Officer",
-                image: "/Our-team/CEO.jpeg",
+                image: "/Our-team/CEO.webp",
                 linkedin: "https://linkedin.com/in/example3",
             },
         ],
@@ -147,10 +147,10 @@ export default function AboutPage() {
             },
         ],
         gallery: [
-            "/Our-team/gallery/img1.jpeg",
-            "/Our-team/gallery/img2.jpeg",
-            "/Our-team/gallery/img3.jpeg",
-            "/Our-team/gallery/img4.jpeg",
+            "/Our-team/gallery/img1.webp",
+            "/Our-team/gallery/img2.webp",
+            "/Our-team/gallery/img3.webp",
+            "/Our-team/gallery/img4.webp",
         ],
     };
 

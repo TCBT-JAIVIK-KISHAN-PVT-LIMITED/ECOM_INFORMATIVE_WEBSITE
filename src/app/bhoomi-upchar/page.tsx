@@ -34,7 +34,7 @@ export default function BhoomiUpcharPage() {
                             <div className="order-2 lg:order-1">
                                 <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-xl group">
                                     <img
-                                        src="https://www.tcbtjaivikkisan.com/files/Gallary/bhoomi%20upchar/Screenshot%202025-12-05%20181318.png"
+                                        src="https://www.tcbtjaivikkisan.com/files/Gallary/bhoomi%20upchar/Screenshot%202025-12-05%20181318.webp"
                                         alt="भूमि उपचार"
                                         className="w-full h-auto object-cover transition-transform duration-500 group-hover:scale-105"
                                     />
@@ -167,7 +167,7 @@ export default function BhoomiUpcharPage() {
 
                         <div className="rounded-xl sm:rounded-2xl overflow-hidden shadow-2xl mt-6 sm:mt-8 lg:mt-10">
                             <img
-                                src="https://www.tcbtjaivikkisan.com/files/Gallary/%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%82%E0%A4%B2%E0%A5%87/optimized_Screenshot%202025-11-25%20181145_500x286.png"
+                                src="https://www.tcbtjaivikkisan.com/files/Gallary/%E0%A4%AB%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%82%E0%A4%B2%E0%A5%87/optimized_Screenshot%202025-11-25%20181145_500x286.webp"
                                 alt="कृषि फार्मूला"
                                 className="w-full h-auto object-cover"
                             />
@@ -302,7 +302,7 @@ export default function BhoomiUpcharPage() {
 
                         <div className="rounded-xl sm:rounded-2xl overflow-hidden shadow-2xl border-2 border-emerald-200">
                             <img
-                                src="https://www.tcbtjaivikkisan.com/files/Gallary/energetics/Screenshot%202025-11-27%20110851.png"
+                                src="https://www.tcbtjaivikkisan.com/files/Gallary/energetics/Screenshot%202025-11-27%20110851.webp"
                                 alt="घूरे के गोबर की ऊर्जा"
                                 className="w-full h-auto object-cover"
                             />

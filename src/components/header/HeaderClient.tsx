@@ -155,7 +155,7 @@ export default function HeaderClient({ navLinks }: { navLinks: NavLink[] }) {
                 className="relative w-10 h-10 sm:w-12 sm:h-12 overflow-hidden shadow-lg group-hover:shadow-xl group-hover:shadow-green-500/50 "
               >
                 <Image
-                  src="/logo.png"
+                  src="/logo.webp"
                   alt="TCBT Logo"
                   fill
                   className="object-contain"

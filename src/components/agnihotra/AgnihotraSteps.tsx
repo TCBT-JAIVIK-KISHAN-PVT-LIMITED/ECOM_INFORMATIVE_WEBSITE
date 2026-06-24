@@ -2,27 +2,27 @@ import Image from "next/image";
 
 const steps = [
   {
-    src: "/Agnihotra/step1.png",
+    src: "/Agnihotra/step1.webp",
     title: "चरण 1",
     desc: "अग्निहोत्र पात्र में कंडों को व्यवस्थित करें",
   },
   {
-    src: "/Agnihotra/step2.png",
+    src: "/Agnihotra/step2.webp",
     title: "चरण 2",
     desc: "घी या कपूर से अग्नि प्रज्वलित करें",
   },
   {
-    src: "/Agnihotra/step3.png",
+    src: "/Agnihotra/step3.webp",
     title: "चरण 3",
     desc: "चावल और घी मिलाकर दो भाग बनाएं",
   },
   {
-    src: "/Agnihotra/step4.png",
+    src: "/Agnihotra/step4.webp",
     title: "चरण 4",
     desc: "मंत्रोच्चार के साथ आहुति दें",
   },
   {
-    src: "/Agnihotra/step5.png",
+    src: "/Agnihotra/step5.webp",
     title: "चरण 5",
     desc: "ध्यान लगाकर अग्नि के सामने बैठें",
   },

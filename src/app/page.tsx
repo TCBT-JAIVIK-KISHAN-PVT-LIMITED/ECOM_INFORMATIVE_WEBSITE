@@ -7,7 +7,7 @@ import PanchMahabhut from '@/components/home/PanchMahabhut'
 import { HelpWidget } from "@/components/common/HelpWidget";
 
 export default async function Home() {
-  await new Promise(resolve => setTimeout(resolve, 3000));
+
 
   return (
     <main>
@@ -47,12 +47,15 @@ export default async function Home() {
 
             <div className="relative group">
               <div className="relative aspect-4/3 rounded-3xl overflow-hidden shadow-2xl">
-                <Image
-                  src="/Tarachand-Belji/with_Ranbir_sir.webp"
-                  alt="Panch Mahabhut Nature"
-                  fill
-                  className="object-cover group-hover:scale-105 transition-transform duration-700"
-                />
+              <Image
+  src="/Tarachand-Belji/with_Ranbir_sir.webp"
+  alt="Panch Mahabhut Nature"
+  fill
+  priority
+  fetchPriority="high"
+  sizes="(max-width: 1024px) 100vw, 50vw"
+  className="object-cover group-hover:scale-105 transition-transform duration-700"
+/>
               </div>
 
               <div className="absolute inset-0 rounded-3xl border-4 border-emerald-400/30 group-hover:border-emerald-500/60 transition-all duration-500"></div>

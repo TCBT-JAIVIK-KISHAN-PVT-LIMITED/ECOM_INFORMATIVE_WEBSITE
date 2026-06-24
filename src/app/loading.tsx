@@ -22,7 +22,7 @@ export default function Loading() {
         filter: 'drop-shadow(0 0 10px rgba(0, 140, 60, 0.25))'
       }}>
         <Image
-          src="/loader/leaf-ring.png.png"
+          src="/loader/leaf-ring.png.webp"
           alt="Loading"
           width={220}
           height={220}

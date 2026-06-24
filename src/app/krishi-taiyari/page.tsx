@@ -148,7 +148,7 @@ const KrishiTaiyari = () => {
             <div className="grid md:grid-cols-2 gap-10 items-start">
               <div>
                 <Image
-                  src="/krishi-taiyari/img.png"
+                  src="/krishi-taiyari/img.webp"
                   alt="अन्न द्रव्य रसायन"
                   width={500}
                   height={600}
